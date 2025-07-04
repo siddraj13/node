@@ -1,0 +1,41 @@
+/*------- Weather App ------*/
+
+.app-container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  margin-right: 10px;
+  width: 200px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.weather-info {
+  margin-top: 20px;
+}
+
+.weather-info h2 {
+  font-size: 24px;
+}
+
+.weather-info p {
+  font-size: 18px;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
